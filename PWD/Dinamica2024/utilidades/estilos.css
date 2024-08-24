@@ -1,0 +1,93 @@
+
+/*body */
+.fondo{
+   /*background-color: grey;*/
+   background-image: url("tp1\vista\img\fondo.jpeg");
+   background-size: auto;
+   background-repeat: no-repeat;
+}
+
+.linkEjercicio{
+   text-decoration:none;
+   font-size: 15px;
+   font-family: tahoma;
+}
+
+.linkMenu{
+   font-family: Georgia;
+   color: #ff16b1;
+   font-size: 18px;
+   text-decoration:none;
+}
+
+.titulo1{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: #081F91;
+   font-size: 30px;
+   font-weight: 600;
+}
+
+/* tp1ej3 - tp1ej8*/
+#formularioIngreso, #formulario8{
+   align-content: center;
+   width: 600px;
+   background-color: white;
+   padding-bottom: 50px;
+}
+
+
+#formulario{
+   align-content: center;
+   width: 450px;
+   background-color: white;
+   padding-bottom: 50px;
+}
+
+#formulario3{
+    align-content: center;
+    width: 600px;
+    background-color: white;
+    padding-bottom: 50px;
+}
+
+
+/* index.php */
+#contenedorPrincipal{
+    align-content: center;
+    width: 750px;
+    background-color: white;
+    margin-top: 50px;
+}
+
+
+
+
+/*mostrar4.php*/
+
+.titulo{
+	color: green;
+	font-weight: bold;
+	padding-left: 10px;
+}
+.subtitulo{
+	color:green;
+	font-weight: lighter;
+}
+
+
+
+
+/*verificaArchivo2.php */
+#mensajeTextarea{
+	border-color: white;
+	font-size: 15px;
+	width: 50%;
+  height: 200px;
+
+}
+
+#tituloTextarea{
+	color:  white;
+	font-size: 28px;
+  font-family: georgia;
+}
